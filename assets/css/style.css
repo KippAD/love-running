@@ -243,6 +243,23 @@ footer {
     width: 100%;
 }
 
+/* Form styling in sign up page */
+
+.form-section {
+    clear: left;
+    background: url(https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
+#sign-up {
+    background-color:rgba(31, 31, 31, 0.6);
+    width: 30%;
+    height: 300px;
+    clear: both;
+}
+
 /* Media queries */
 
 /* For larger to medium screen sizes from 1200px and down */

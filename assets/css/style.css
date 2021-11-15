@@ -254,10 +254,26 @@ footer {
 }
 
 #sign-up {
+    display: block;
     background-color:rgba(31, 31, 31, 0.6);
     width: 30%;
     height: 300px;
     clear: both;
+}
+
+#sign-up div {
+    color: white;
+    clear: both;
+    width: 100%;
+    padding: 10px;
+}
+
+#sign-up div input {
+    display: inline-block;
+    background-color:rgba(31, 31, 31, 0.6);
+    width: 90%;
+    border: 1px solid white;
+    margin: 0 auto;
 }
 
 /* Media queries */
